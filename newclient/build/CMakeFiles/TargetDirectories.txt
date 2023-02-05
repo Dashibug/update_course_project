@@ -1,0 +1,4 @@
+D:/newclient/build/CMakeFiles/newclient.dir
+D:/newclient/build/CMakeFiles/INSTALL.dir
+D:/newclient/build/CMakeFiles/ALL_BUILD.dir
+D:/newclient/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,4 @@
+D:/newserver/build1/CMakeFiles/newserver.dir
+D:/newserver/build1/CMakeFiles/INSTALL.dir
+D:/newserver/build1/CMakeFiles/ALL_BUILD.dir
+D:/newserver/build1/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,7 @@
+﻿  Automatic MOC and UIC for target newserver
+  Building Custom Rule D:/newserver/CMakeLists.txt
+  mocs_compilation_Debug.cpp
+  main.cpp
+  newserver.cpp
+  Создание кода...
+  newserver.vcxproj -> D:\newserver\build1\Debug\newserver.exe

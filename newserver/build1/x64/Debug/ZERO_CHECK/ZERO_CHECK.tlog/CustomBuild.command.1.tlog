@@ -1,0 +1,10 @@
+^D:\NEWSERVER\BUILD1\CMAKEFILES\773E81534496FB1766889826756D110F\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\bin\cmake.exe" -SD:/newserver -BD:/newserver/build1 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/newserver/build1/newserver.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

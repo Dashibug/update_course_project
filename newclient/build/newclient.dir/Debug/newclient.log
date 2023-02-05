@@ -1,0 +1,7 @@
+﻿  Automatic MOC and UIC for target newclient
+  Building Custom Rule D:/newclient/CMakeLists.txt
+  mocs_compilation_Debug.cpp
+  main.cpp
+  mainwindow.cpp
+  Создание кода...
+  newclient.vcxproj -> D:\newclient\build\Debug\newclient.exe
